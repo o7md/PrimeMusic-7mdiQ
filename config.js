@@ -1,9 +1,9 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTM1Mjg3MTQ3MTgxMDA4NDg5Nw.GA4unB.mXr1t1hxnexSg45RH29Ppx4f6YoV42hJEHmHPI",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["714576535079878683", "947478799514210314"], 
   mongodbUri : "",
   spotifyClientId : "",
   spotifyClientSecret : "",
@@ -17,8 +17,8 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
+      name: "7mdiQ",
+      password: "7mdiQ1",
       host: "193.226.78.187",
       port:  9372,
       secure: false
